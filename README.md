@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-Soluciones de LeetCode basadas en Bases de datos, pandas(python).
+Soluciones de LeetCode basadas en Bases de datos(SQL) y Pandas(Python).
