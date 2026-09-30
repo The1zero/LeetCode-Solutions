@@ -1,0 +1,6 @@
+# Ignorar archivos Markdown en las estadísticas de lenguaje
+*.md linguist-detectable=false
+
+# Forzar la detección de Python y SQL
+*.py linguist-detectable=true
+*.sql linguist-detectable=true
